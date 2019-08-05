@@ -1,5 +1,5 @@
 # Tetris-JS
-Coded Retro Tetris Game in Vanilla JavaScript to play in the Browser. Coded Along with MethMethMethod's Youtube tutorial (https://www.youtube.com/watch?v=H2aW5V46khA).
+Retro Tetris Game in Vanilla JavaScript to play in the Browser. Coded Along with MethMethMethod's Youtube tutorial (https://www.youtube.com/watch?v=H2aW5V46khA).
 
 To Play in the browser:
 1. Please clone or download this repo on to your desktop
